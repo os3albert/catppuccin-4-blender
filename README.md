@@ -1,6 +1,6 @@
 # Catppuccin Theme 4 Blender 
 
-<img width="56" height="56" alt="256" src="https://github.com/user-attachments/assets/e86f2e62-659b-4cee-8bb9-3cca256d0897" style="display:inline"/> 
+<img width="56" height="56" alt="Project logo" src="https://github.com/user-attachments/assets/e86f2e62-659b-4cee-8bb9-3cca256d0897" style="display:inline"/> 
 
 This theme is inspired by Catppuccin theme from VSCode
 

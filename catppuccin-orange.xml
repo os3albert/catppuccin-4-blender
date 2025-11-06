@@ -11,20 +11,20 @@
         editor_outline="#62677f15"
         editor_outline_active="#ffffff2a"
         widget_text_cursor="#eaac86"
-        panel_roundness="0.373545"
+        panel_roundness="0.4"
         panel_header="#232534ff"
         panel_title="#d4dcff"
         panel_text="#dce3ff"
         panel_back="#232534ff"
         panel_sub_back="#00000024"
         panel_outline="#00000000"
-        panel_active="#4772b3ff"
+        panel_active="#eaac86ff"
         transparent_checker_primary="#2b2e33"
         transparent_checker_secondary="#262626"
         transparent_checker_size="8"
-        axis_x="#eaac86"
-        axis_y="#a6d189"
-        axis_z="#8caaee"
+        axis_x="#ffb3be"
+        axis_y="#e3ffb2"
+        axis_z="#a0dcff"
         axis_w="#edd58b"
         gizmo_hi="#000000"
         gizmo_primary="#000000"
@@ -32,29 +32,29 @@
         gizmo_view_align="#ffffff"
         gizmo_a="#000000"
         gizmo_b="#000000"
-        icon_scene="#676d89ff"
-        icon_collection="#676d89ff"
-        icon_object="#676d89ff"
-        icon_object_data="#676d89ff"
-        icon_modifier="#676d89ff"
-        icon_shading="#676d89ff"
-        icon_folder="#676d89ff"
-        icon_autokey="#676d89ff"
+        icon_scene="#c0cbffff"
+        icon_collection="#c0cbffff"
+        icon_object="#c0cbffff"
+        icon_object_data="#bfcafdff"
+        icon_modifier="#c0cbffff"
+        icon_shading="#c0cbffff"
+        icon_folder="#c0cbffff"
+        icon_autokey="#c0cbffff"
         icon_border_intensity="0"
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#232634ff"
+            outline="#d5deff00"
             outline_sel="#3d3d3dff"
-            inner="#a46d4bff"
-            inner_sel="#8caaeea1"
+            inner="#724ba41a"
+            inner_sel="#eaac86a1"
             item="#3f3f3fff"
             text="#d5deff"
-            text_sel="#ffffff"
+            text_sel="#d5deff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-5"
-            roundness="0.254962"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_regular>
@@ -70,7 +70,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-5"
-            roundness="0.300763"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tool>
@@ -102,7 +102,7 @@
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-5"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_radio>
@@ -111,14 +111,14 @@
             outline="#1d1d1dff"
             outline_sel="#3d3d3dff"
             inner="#414559ff"
-            inner_sel="#7f84adff"
+            inner_sel="#a46d4bff"
             item="#333333ff"
             text="#d9e1ff"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="-3"
             shadedown="0"
-            roundness="0.308397"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_text>
@@ -129,12 +129,12 @@
             inner="#ffffffff"
             inner_sel="#eaac86ff"
             item="#232634ff"
-            text="#eeeeee"
-            text_sel="#ffffff"
+            text="#ffffff"
+            text_sel="#dbe1ff"
             show_shaded="FALSE"
             shadetop="-14"
             shadedown="0"
-            roundness="0.5"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_option>
@@ -150,7 +150,7 @@
             show_shaded="FALSE"
             shadetop="6"
             shadedown="0"
-            roundness="0.300763"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_toggle>
@@ -182,7 +182,7 @@
             show_shaded="FALSE"
             shadetop="-4"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_numslider>
@@ -246,7 +246,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.0361111"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_pulldown>
@@ -278,7 +278,7 @@
             show_shaded="FALSE"
             shadetop="10"
             shadedown="-10"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_pie_menu>
@@ -294,7 +294,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tooltip>
@@ -326,7 +326,7 @@
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-5"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_scroll>
@@ -342,7 +342,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.30299"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_progress>
@@ -386,15 +386,15 @@
           <ThemeWidgetColors
             outline="#23263466"
             outline_sel="#1d1d1dff"
-            inner="#232634ff"
-            inner_sel="#eaac86ff"
+            inner="#191b25ff"
+            inner_sel="#a46d4bff"
             item="#2d2d2dff"
             text="#dbe1ff"
-            text_sel="#232634"
+            text_sel="#d3dbff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tab>
@@ -439,7 +439,7 @@
       <ThemeCommon>
         <anim>
           <ThemeCommonAnim
-            playhead="#c28159"
+            playhead="#a46d4b"
             preview_range="#a14d0066"
             scene_strip_range="#00000080"
             channels="#9b7ac2ff"
@@ -496,23 +496,23 @@
         gp_vertex_select="#ff8500"
         gp_vertex_size="3"
         text_grease_pencil="#b5e61d"
-        object_selected="#96b6ff"
-        object_active="#eaac86"
+        object_selected="#7ca4ff"
+        object_active="#c5d7ff"
         camera="#000000"
         empty="#000000"
         light="#00000028"
         speaker="#000000"
         vertex="#000000"
-        vertex_select="#e1d8ff"
+        vertex_select="#ff7a00"
         vertex_size="3"
-        edge_select="#eaac86"
-        edge_mode_select="#eaac86"
+        edge_select="#ff9900"
+        edge_mode_select="#ffd800"
         face="#00000008"
-        face_select="#6392ff41"
-        face_mode_select="#7a27ff33"
+        face_select="#e1bf8d41"
+        face_mode_select="#e1bf8d41"
         facedot_size="2"
-        face_back="#ff0000b3"
-        face_front="#0000ffb3"
+        face_back="#ff4d4db3"
+        face_front="#4d4dffb3"
         bevel="#00a5ff"
         seam="#645adb"
         sharp="#00ffff"
@@ -592,7 +592,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#c28159"
+        selected_file="#a46d4b"
         row_alternate="#ffffff07"
         >
         <space>
@@ -749,7 +749,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#292c3c"
+            back="#2a2d3e"
             title="#d4dcff"
             text="#dce3ff"
             text_hi="#ffffff"
@@ -818,7 +818,7 @@
         shader_node="#c28159"
         script_node="#47b3b3"
         geometry_node="#46b383"
-        attribute_node="#4772b3"
+        attribute_node="#eaac86"
         simulation_zone="#66416233"
         repeat_zone="#76512f33"
         foreach_geometry_element_zone="#33527f33"
@@ -841,19 +841,19 @@
     <outliner>
       <ThemeOutliner
         match="#62677f"
-        selected_highlight="#3a3a50"
-        active="#62677f"
-        selected_object="#aeaeae"
-        active_object="#ffffff"
-        edited_object="#a6d18966"
-        row_alternate="#ffffff07"
+        selected_highlight="#3d404f"
+        active="#a46d4b"
+        selected_object="#c9cfff"
+        active_object="#c9cfff"
+        edited_object="#a46d4bff"
+        row_alternate="#ffffff05"
         >
         <space>
           <ThemeSpaceGeneric
             back="#232634"
             title="#ffffff"
-            text="#9ea3c9"
-            text_hi="#ffffff"
+            text="#c9cfff"
+            text_hi="#c9cfff"
             header="#232634ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"

@@ -3,9 +3,9 @@ schema_version = "1.0.0"
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
 id = "catppucin4blender"
-version = "1.0.0"
+version = "5.2.0"
 name = "Catppuccin for Blender"
-tagline = "Catppuccin theme"
+tagline = "Catppuccin - Theme"
 maintainer = "Albert Bici"
 # Supported types: "add-on", "theme"
 type = "theme"
@@ -17,7 +17,7 @@ type = "theme"
 # # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
 tags = ["Inspired By", "Dark", "Colorful"]
 
-blender_version_min = "4.2.0"
+blender_version_min = "5.0.0"
 # # Optional: Blender version that the extension does not support, earlier versions are supported.
 # # This can be omitted and defined later on the extensions platform if an issue is found.
 # blender_version_max = "5.1.0"

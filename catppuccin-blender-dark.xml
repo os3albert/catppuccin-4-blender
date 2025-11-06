@@ -533,7 +533,7 @@
         nurb_sel_uline="#f0ff40"
         nurb_sel_vline="#f090a0"
         bone_pose="#33a68f"
-        bone_pose_active="#8663ff"
+        bone_pose_active="#a9cdff"
         bone_solid="#737373"
         bone_locked_weight="#ff000080"
         before_current_frame="#f22e23"
@@ -592,7 +592,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#8759c2"
+        selected_file="#4772b3"
         row_alternate="#ffffff07"
         >
         <space>

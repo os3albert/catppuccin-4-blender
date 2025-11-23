@@ -4,6 +4,7 @@ schema_version = "1.0.0"
 # Change the values according to your extension
 id = "catppucin4blender"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "5.1.1"
 name = "Catppuccin Theme"
 tagline = "Catppuccin for Blender"
@@ -12,6 +13,11 @@ version = "5.3.2"
 name = "Catppuccin for Blender"
 tagline = "Catppuccin - Theme"
 >>>>>>> catppuccin-orange
+=======
+version = "5.2.0"
+name = "Catppuccin for Blender"
+tagline = "Catppuccin - Theme"
+>>>>>>> catppuccin-blender-dark
 maintainer = "Albert Bici"
 # Supported types: "add-on", "theme"
 type = "theme"

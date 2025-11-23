@@ -428,7 +428,7 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#2a2d3e00"
+            back="#23263400"
             tab_back="#23263400"
             >
           </ThemeRegionsSidebars>
@@ -505,11 +505,11 @@
         vertex="#000000"
         vertex_select="#d8deff"
         vertex_size="3"
-        edge_select="#a46d4b"
-        edge_mode_select="#a46d4b"
+        edge_select="#d8deff"
+        edge_mode_select="#d8deff"
         face="#00000008"
-        face_select="#eaac8640"
-        face_mode_select="#eaac8687"
+        face_select="#a46d4b45"
+        face_mode_select="#a46d4b80"
         facedot_size="2"
         face_back="#ff0000b3"
         face_front="#0000ffb3"
@@ -678,7 +678,7 @@
         editmesh_active="#ffffff80"
         wire_edit="#c0c0c0"
         edge_width="1"
-        edge_select="#eaac86"
+        edge_select="#d8deff"
         scope_back="#727272ff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"

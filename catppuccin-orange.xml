@@ -505,8 +505,8 @@
         vertex="#000000"
         vertex_select="#ffead6"
         vertex_size="3"
-        edge_select="#a46d4b"
-        edge_mode_select="#a46d4b"
+        edge_select="#eaac86"
+        edge_mode_select="#eaac86"
         face="#00000008"
         face_select="#eaac8640"
         face_mode_select="#eaac8687"
@@ -592,7 +592,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#8759c2"
+        selected_file="#a46d4b"
         row_alternate="#ffffff07"
         >
         <space>
